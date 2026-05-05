@@ -83,6 +83,8 @@ If you like this project, give it a **star ⭐ on GitHub**!
 
 For suggestions or queries, feel free to connect.
 
+E-Mail : upadhyayshivam3268@gmail.com
+
 ---
 
 **Made with ❤️ for Data Analytics & Business Intelligence**
